@@ -1,7 +1,7 @@
 void main() {
-  int num1 = 500;
+  int num1 = 600;
   int num2 = 750;
-  int num3 = 1000;
+  int num3 = 1200;
 
 
   int largest;

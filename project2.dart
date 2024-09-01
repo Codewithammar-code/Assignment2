@@ -1,5 +1,5 @@
 void main (){
-    int num = 500;
+    int num = 50;
     if (num > 100) {
         print ('num is positive');
     } else if (num < 98 ){
